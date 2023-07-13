@@ -1,0 +1,13 @@
+
+.carousel-inner{
+    z-index: -1;
+    padding: 20px;
+}
+.carousel{
+    width: 70%;
+    margin: 20px auto;
+}
+.carousel img{
+    filter: brightness(0.5);
+    border-radius: 10px;
+}

@@ -1,0 +1,23 @@
+.col{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap:20px;
+    width: 90%;
+    margin: 50px auto;
+}
+.imageCard
+{
+    width: 100px;
+    height: 100px;
+}
+.card{
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    text-transform: capitalize;
+}
+.card a{
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
